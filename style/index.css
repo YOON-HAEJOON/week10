@@ -1,0 +1,55 @@
+#first_title {
+    border:100px solid;
+    border-image-source:url(../src/pngfind.com-square-border-png-260017.png);
+    border-image-slice:200;
+    width:1100px;
+    margin:0.5em;
+    
+    
+}
+
+@font-face{
+    font-family: NanumBarunGothic;
+    src:url(../src/NanumBarunGothic.ttf);
+    font-weight:normal;
+    
+}
+
+@font-face{
+    font-family: JalnanOTF;
+    src:url(../src/JalnanOTF.otf);
+    font-weight:normal;
+}
+
+#contents {
+    text-decoration:none;
+    font-family: JalnanOTF;
+}
+    
+    
+    
+    
+
+
+footer{
+    font-family:NanumBarunGothic;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    padding:10px;
+    text-align: center;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:hover{
+    color:dimgrey;
+    background:url("../src/black%20cute.png")no-repeat;
+    background-size:40px;
+    padding:0 30px 10px 50px
+}
+
+    

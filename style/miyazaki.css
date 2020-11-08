@@ -1,0 +1,86 @@
+body{
+   background-color: #131834;
+    
+}
+
+
+#myzk{
+    margin-top:70px;
+    margin-bottom: 100px;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding:100px;
+    background-color:white;
+
+    
+    
+}
+
+
+@font-face{
+    font-family: JalnanOTF;
+    src:url(../src/JalnanOTF.otf);
+    font-weight:normal;
+}
+
+
+@font-face{
+    font-family: NanumBarunGothic;
+    src:url(../src/NanumBarunGothic.ttf);
+    font-weight:normal;
+}
+
+.sub_title{
+    border-bottom:3px solid; 
+    color:#131834;
+    opacity: 80%;
+    font-family: JalnanOTF;
+    font-size:30px;
+
+    
+    
+}
+
+
+.ment{
+    font-family: NanumBarunGothic;
+    font-weight:500;
+    font-size: 14px;
+    letter-spacing:0px;
+    line-height: 25px;
+    
+    
+}
+
+
+
+table{
+    width:1000px;
+    background-color: white;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    border-color: white;
+    text-align: left;
+    
+}
+
+.image td{
+   padding-left: 15px;
+   padding-right: 15px;
+}
+
+
+
+.last_ment{
+    text-align: center;
+    font-family:JalnanOTF; 
+    letter-spacing: 1px;
+    line-height: 30px;
+    font-size:25px;
+    width:500px;
+    color:#131834;
+    opacity:80%;
+    margin:70px;
+}
+
+
