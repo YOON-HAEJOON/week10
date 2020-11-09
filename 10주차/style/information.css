@@ -1,0 +1,79 @@
+body{
+    background-color: #1fa0ff;
+}
+
+#main_contents{
+    width:auto;
+    background-color: white;
+    border:30px;
+    margin-top: 40px;
+    padding-top: 30px;
+    padding-bottom:30px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+@font-face{
+    font-family: NanumBarunGothic;
+    src:url(../src/NanumBarunGothic.ttf);
+    font-weight:normal;
+}
+
+
+.tbl{
+    font-family:NanumBarunGothic; 
+    background-color: white;
+    width:1200px;
+    padding:50px;
+    margin: 50px;
+    border-collapse: collapse;
+   
+}
+
+
+.tbl th,
+.tbl td{
+    padding:20px 10px;
+    border:1px solid #999;
+    margin:50px;
+    
+
+}
+
+.tbl td{
+    text-align: center;
+}
+
+
+.tbl thead{
+    background-color:#e2e2e2;
+    font-weight: 1200;
+    font-size: 20;
+}
+
+
+
+a:link{
+    text-decoration: none;
+}
+
+a:hover{
+    color: dimgrey;
+    ;
+}
+
+a:visited{
+    color:darkorchid;
+}
+
+
+footer{
+    font-family:NanumBarunGothic;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    padding:10px;
+    text-align: center;
+}
+
