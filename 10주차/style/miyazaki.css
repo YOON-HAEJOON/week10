@@ -74,13 +74,13 @@ table{
 .last_ment{
     text-align: center;
     font-family:JalnanOTF; 
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
     line-height: 30px;
     font-size:20px;
-    width:202px;
+    width:204px;
     color:#131834;
     opacity:80%;
-    margin:40px;
+    margin:50px;
 }
 
 
