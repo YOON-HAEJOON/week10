@@ -5,6 +5,7 @@ body{
 #main_contents{
     width:1300px;
     display: flex;
+    text-align: center;
     align-items: center;
     justify-items: center;
     background-color: white;
