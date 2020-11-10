@@ -4,6 +4,7 @@ body{
 
 #main_contents{
     width:1300px;
+    display: flex;
     align-items: center;
     justify-items: center;
     background-color: white;

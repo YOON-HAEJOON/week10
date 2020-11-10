@@ -74,6 +74,7 @@ a:hover{
 }
 
 #image{
+    display: flex;
     justify-content: center;
     
 }
