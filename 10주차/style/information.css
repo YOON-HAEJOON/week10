@@ -4,6 +4,8 @@ body{
 
 #main_contents{
     width:1300px;
+    align-items: center;
+    justify-items: center;
     background-color: white;
     border:30px;
     margin-top: 40px;
